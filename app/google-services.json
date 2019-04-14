@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "339172684213",
+    "firebase_url": "https://tracker-1db3d.firebaseio.com",
+    "project_id": "tracker-1db3d",
+    "storage_bucket": "tracker-1db3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339172684213:android:0ea0860f3dc32195",
+        "android_client_info": {
+          "package_name": "com.example.dewidar.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339172684213-kv67gqebhvdu5mrfncttlfhsd5niao1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-WCg1YkmgY70gGZu-F0wkhggaieRNik8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339172684213-kv67gqebhvdu5mrfncttlfhsd5niao1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

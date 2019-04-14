@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tracker</string>
+    <string name="facebook_app_id">322697621776012</string>
+    <string name="fb_login_protocol_scheme">fb322697621776012</string>
+</resources>
